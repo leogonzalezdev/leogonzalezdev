@@ -4,7 +4,7 @@
    Sobre mí
 </h3>
 <p align="center">
-<img alt="Commutatus gif" src="https://github.com/leogonzalezok/sources/blob/main/gonzalez%20leonel.png" width="90%" />
+<img alt="Banner" src="https://github.com/leogonzalezok/sources/blob/main/gonzalez%20leonel.png" width="90%" />
 </p>
 <br/>
 <h2 align="center">
