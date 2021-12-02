@@ -19,8 +19,8 @@
 
 <br/>
 <br/>
-
-
+<br/>
+<br/>
 <h2 align="center">
   Tecnologias con las que trabajo:
 </h2>
