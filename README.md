@@ -10,7 +10,6 @@
 <h2 align="center">
     Tecnologías con las que trabajo:
 </h2>
-<img align="right" alt="Person coding gif" src="https://github.com/leogonzalezok/sources/blob/main/46155.png" width="200" />
 
 - **ReactJS ⚛**
 - **JavaScript 🟡**
