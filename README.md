@@ -4,9 +4,13 @@
    Sobre mí
 </h3>
 <p align="center">
+Hola mi nombre es Leo, un apasionado por el desarrollo de software y estoy en busqueda de mi primera experiencia profesional IT. 🔎<br/>
+Me considero una persona proactiva, responsable y con buena comunicación. 📣<br/>
+Me gustaría formar parte de un 
+equipo en donde pueda crecer y desarrollarme profesionalmente. 🧑🏻‍💻
+<br/>
 <img alt="Banner" src="https://github.com/leogonzalezok/sources/blob/267191d7b36897ae66566dcee97b8e4424bc585f/20220124_232300_0002.png" width="90%" />
 </p>
-<br/>
 <h2 align="center">
     Tecnologías con las que trabajo:
 </h2>
@@ -19,9 +23,7 @@
 - **HTML5 🟧**
 - **CSS3 🟦**
 
-<br/>
-<br/>
-<br/>
+<br/><br/>
 
 <h2 align="center">
     My contributions to open-source:
