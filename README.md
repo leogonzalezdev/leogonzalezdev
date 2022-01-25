@@ -4,19 +4,19 @@
    Sobre mí
 </h3>
 <p align="center">
-<img alt="Banner" src="https://github.com/leogonzalezok/sources/blob/main/gonzalez%20leonel.png" width="90%" />
+<img alt="Banner" src="https://github.com/leogonzalezok/sources/blob/267191d7b36897ae66566dcee97b8e4424bc585f/20220124_232300_0002.png" width="90%" />
 </p>
 <br/>
 <h2 align="center">
-    Creo experiencias de usuario que son:
+    Tecnologías con las que trabajo:
 </h2>
 <img align="right" alt="Person coding gif" src="https://github.com/leogonzalezok/sources/blob/main/46155.png" width="200" />
 
-- **Adaptables ✅**
-- **Intuitivas 🤩**
-- **Dinámicas 🧬**
-- **Optimizadas ♻️**
-
+- **ReactJS ⚛**
+- **JavaScript 🟡**
+- **php 🐘**
+- **MySql 🐬**
+- **Bootstrap 🟣**
 <br/>
 <br/>
 <br/>
