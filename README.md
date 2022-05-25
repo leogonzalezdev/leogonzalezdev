@@ -16,6 +16,7 @@ equipo en donde pueda crecer y desarrollarme profesionalmente. 🧑🏻‍💻
 </h2>
 
 - **ReactJS ⚛**
+- **Redux ⚛**
 - **JavaScript 🟡**
 - **php 🐘**
 - **MySql 🐬**
