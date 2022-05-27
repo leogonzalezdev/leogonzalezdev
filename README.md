@@ -39,6 +39,6 @@ equipo en donde pueda crecer y desarrollarme profesionalmente. 🧑🏻‍💻
 <br/>
 
 <p align="center">
- <a href="mailto:leogonzalez777.lg@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="mailto:leogonzalezdev@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <a href="https://in.linkedin.com/in/leogonzalezok"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> 
 </p>
