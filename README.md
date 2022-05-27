@@ -3,7 +3,7 @@
 <h3 align="center">
    Sobre mí
 </h3>
-<p align="center">
+<p align="left">
 Hola mi nombre es Leo, un apasionado por el desarrollo de software y estoy en busqueda de mi primera experiencia profesional IT. 🔎<br/>
 Me considero una persona proactiva, responsable y con buena comunicación. 📣<br/>
 Me gustaría formar parte de un 
