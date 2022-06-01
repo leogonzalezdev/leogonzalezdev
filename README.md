@@ -9,7 +9,7 @@ Me considero una persona proactiva, responsable y con buena comunicación. 📣<
 Me gustaría formar parte de un 
 equipo en donde pueda crecer y desarrollarme profesionalmente. 🧑🏻‍💻
 <br/>
-<img alt="Banner" src="https://github.com/leogonzalezok/sources/blob/267191d7b36897ae66566dcee97b8e4424bc585f/20220124_232300_0002.png" width="90%" />
+<img alt="Banner" src="https://www.linkedin.com/mwlite/me/add/background" width="90%" />
 </p>
 <h2 align="center">
     Tecnologías con las que trabajo:
