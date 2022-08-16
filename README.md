@@ -15,11 +15,11 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 <br/>
 🤓 ¿Mi Background? <br/>
 ✔ Hice mis estudios secundarios en un Instituto Técnico en Informática, donde aprendí las bases del desarrollo de software, creando mis primeros sistemas web. 🖥
-<br/>
+<br/><br/>
 ✔ Me apasioné por este mundo de la programación y continúe especializándome, haciendo cursos de programación y practicando en proyectos personales. 📚
-<br/>
+<br/><br/>
 ✔ Ingresé al Bootcamp soyHenry donde, además de profundizar en las distintas tecnologías, aprendí metodologías agiles, a trabajar en conjunto con otros desarrolladores y comunicarme con profesionales que no sean del rubro IT. 👥
-<br/>
+<br/><br/>
 ✔ Actualmente me encuentro listo para mi primera experiencia laboral en el mundo IT! 😁
 <br/>
 <br/>
