@@ -4,24 +4,24 @@
    Sobre mí
 </h3>
 <p align="left">
-👀 ¿Quién soy? 
+👀 ¿Quién soy? <br/>
 🔹 Desarrollador FullStack con orientación FrontEnd, con la capacidad de desarrollar páginas y aplicaciones web, escalables, modularizadas y optimizadas. ⏱
-
-🤔 ¿Por qué yo? 
+<br/>
+🤔 ¿Por qué yo? <br/>
 🔸 Más allá de los conocimientos técnicos, soy una persona curiosa, que le encanta aprender y enseñar. 
 Me considero una persona detallista, pragmática, proactiva y con buena comunicación. 📣
-
-🤓 ¿Mi Background? 
+<br/>
+🤓 ¿Mi Background? <br/>
 ✔ Hice mis estudios secundarios en un Instituto Técnico en Informática, donde aprendí las bases del desarrollo de software, creando mis primeros sistemas web. 🖥
-
+<br/>
 ✔ Me apasioné por este mundo de la programación y continúe especializándome, haciendo cursos de programación y practicando en proyectos personales. 📚
-
+<br/>
 ✔ Ingresé al Bootcamp soyHenry donde, además de profundizar en las distintas tecnologías, aprendí metodologías agiles, a trabajar en conjunto con otros desarrolladores y comunicarme con profesionales que no sean del rubro IT. 👥
-
+<br/>
 ✔ Actualmente me encuentro listo para mi primera experiencia laboral en el mundo IT! 😁
-
+<br/>
 🔔 ¿Creés que soy lo que tu equipo está buscando? No dudes en contactarme. 
-
+<br/>
 📤 Email: leogonzalezdev@gmail.com
 <br/>
 <img alt="Banner" src="https://www.linkedin.com/mwlite/me/add/background" width="90%" />
