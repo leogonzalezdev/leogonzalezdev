@@ -26,8 +26,8 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 🔔 ¿Creés que soy lo que tu equipo está buscando? No dudes en contactarme. 
 <br/>
 📤 Email: leogonzalezdev@gmail.com
+💼 <a href="https://leogonzalez.vercel.app/">Mi Portafolio</a>
 <br/>
-
 </p>
 <h2 align="center">
     Tecnologías con las que trabajo:
