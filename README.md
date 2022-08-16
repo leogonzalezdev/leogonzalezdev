@@ -35,12 +35,15 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 
 - **ReactJS ⚛**
 - **Redux ⚛**
+- **Express ⚛**
+- **Node JS ⚛**
+- **Sequelize ⚛**
 - **JavaScript 🟡**
 - **php 🐘**
 - **MySql 🐬**
-- **Bootstrap 🟣**
 - **HTML5 🟧**
 - **CSS3 🟦**
+- y más...
 
 <br/><br/>
 
