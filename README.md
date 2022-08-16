@@ -48,7 +48,7 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 <br/><br/>
 
 <h2 align="center">
-    Mis contrubuciones:
+    Mis contribuciones:
 </h2>
 
 <p align="center">
