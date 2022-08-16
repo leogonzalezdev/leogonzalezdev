@@ -1,5 +1,7 @@
 <h1 align="center"> Hola 👋🏽, Yo soy Leonel, Bienvenido/a</h1>
-
+<br/>
+<img alt="Banner" src="./1654030060949.jpg" width="100%" />
+<br/>
 <h3 align="center">
    Sobre mí
 </h3>
@@ -27,10 +29,7 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 <br/>
 📤 Email: leogonzalezdev@gmail.com
 <br/>
-<br/>
 
-<img alt="Banner" src="./1654030060949.jpg" width="100%" />
-<br/>
 </p>
 <h2 align="center">
     Tecnologías con las que trabajo:
