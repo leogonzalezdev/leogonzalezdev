@@ -1,7 +1,5 @@
 <h1 align="center"> Hola 👋🏽, Yo soy Leonel, Bienvenido/a</h1>
-<br/>
 <img alt="Banner" src="./1654030060949.jpg" width="100%" />
-<br/>
 <h3 align="center">
    Sobre mí
 </h3>
