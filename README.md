@@ -27,7 +27,7 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 <br/>
 📤 Email: leogonzalezdev@gmail.com
 <br/>
-<img alt="Banner" src="https://www.linkedin.com/mwlite/me/add/background" width="90%" />
+<img alt="Banner" src="./1654030060949.jpg" width="90%" />
 </p>
 <h2 align="center">
     Tecnologías con las que trabajo:
