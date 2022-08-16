@@ -26,15 +26,15 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 🔔 ¿Creés que soy lo que tu equipo está buscando? No dudes en contactarme. 
 <br/>
 📤 Email: leogonzalezdev@gmail.com
+<br/>
 💼 <a href="https://leogonzalez.vercel.app/">Mi Portafolio</a>
+<br/>
+👥 <a href="https://www.linkedin.com/in/leogonzalezdev/">Mi LinkedIn</a>
 <br/>
 </p>
 <h2 align="center">
     Tecnologías con las que trabajo:
 </h2>
-
-
-
 
 <div align="center">
    <img width="70" src="./react.png"/>
@@ -54,17 +54,6 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
    <img width="70" src="./figma.png"/>
    <img width="70" src="./ps.png"/>
 </div>
-<!-- - **ReactJS ⚛**
-- **Redux ⚛**
-- **Express ⚛**
-- **Node JS ⚛**
-- **Sequelize ⚛**
-- **JavaScript 🟡**
-- **php 🐘**
-- **MySql 🐬**
-- **HTML5 🟧**
-- **CSS3 🟦**
-- y más... -->
 
 <br/><br/>
 
@@ -77,7 +66,6 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 </p>  
 
 <br/>
-
 <br/>
 
 <p align="center">
