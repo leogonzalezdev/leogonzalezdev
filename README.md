@@ -33,7 +33,28 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
     Tecnologías con las que trabajo:
 </h2>
 
-- **ReactJS ⚛**
+
+
+
+<div align="center">
+   <img width="70" src="./react.png"/>
+   <img width="70" src="./NODE.png"/>
+   <img width="70" src="./javascript.png"/>
+   <img width="70" src="./git.png"/>
+   <img width="70" src="./typescript.png"/>
+   <img width="70" src="./reactnative.png"/>
+   <img width="70" src="./expressjs.png"/>
+   <img width="70" src="./redux.png"/>
+   <img width="70" src="./php.png"/>
+   <img width="70" src="./mysql.png"/>
+   <img width="70" src="./html.png"/>
+   <img width="70" src="./css.png"/>
+   <img width="70" src="./postgres.png"/>
+   <img width="70" src="./sequelize.png"/>
+   <img width="70" src="./figma.png"/>
+   <img width="70" src="./ps.png"/>
+</div>
+<!-- - **ReactJS ⚛**
 - **Redux ⚛**
 - **Express ⚛**
 - **Node JS ⚛**
@@ -43,7 +64,7 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 - **MySql 🐬**
 - **HTML5 🟧**
 - **CSS3 🟦**
-- y más...
+- y más... -->
 
 <br/><br/>
 
