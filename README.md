@@ -4,10 +4,25 @@
    Sobre mí
 </h3>
 <p align="left">
-Hola mi nombre es Leo, un apasionado por el desarrollo de software y estoy en busqueda de mi primera experiencia profesional IT. 🔎<br/>
-Me considero una persona proactiva, responsable y con buena comunicación. 📣<br/>
-Me gustaría formar parte de un 
-equipo en donde pueda crecer y desarrollarme profesionalmente. 🧑🏻‍💻
+👀 ¿Quién soy? 
+🔹 Desarrollador FullStack con orientación FrontEnd, con la capacidad de desarrollar páginas y aplicaciones web, escalables, modularizadas y optimizadas. ⏱
+
+🤔 ¿Por qué yo? 
+🔸 Más allá de los conocimientos técnicos, soy una persona curiosa, que le encanta aprender y enseñar. 
+Me considero una persona detallista, pragmática, proactiva y con buena comunicación. 📣
+
+🤓 ¿Mi Background? 
+✔ Hice mis estudios secundarios en un Instituto Técnico en Informática, donde aprendí las bases del desarrollo de software, creando mis primeros sistemas web. 🖥
+
+✔ Me apasioné por este mundo de la programación y continúe especializándome, haciendo cursos de programación y practicando en proyectos personales. 📚
+
+✔ Ingresé al Bootcamp soyHenry donde, además de profundizar en las distintas tecnologías, aprendí metodologías agiles, a trabajar en conjunto con otros desarrolladores y comunicarme con profesionales que no sean del rubro IT. 👥
+
+✔ Actualmente me encuentro listo para mi primera experiencia laboral en el mundo IT! 😁
+
+🔔 ¿Creés que soy lo que tu equipo está buscando? No dudes en contactarme. 
+
+📤 Email: leogonzalezdev@gmail.com
 <br/>
 <img alt="Banner" src="https://www.linkedin.com/mwlite/me/add/background" width="90%" />
 </p>
