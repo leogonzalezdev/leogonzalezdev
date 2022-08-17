@@ -1,38 +1,25 @@
 # Hola 👋🏽, Yo soy Leonel, Bienvenido/a
-<img alt="Banner" src="./images/1654030060949.jpg" width="100%" />
-
+![Banner](./images/1654030060949.jpg "Banner")
 ## Sobre mí
-
-* 👀 ¿Quién soy? <br/>
+* 👀 ¿Quién soy?
 🔹 Desarrollador FullStack con orientación FrontEnd, con la capacidad de desarrollar páginas y aplicaciones web, escalables, modularizadas y optimizadas. ⏱
-<br/>
-<br/>
-* 🤔 ¿Por qué yo? <br/>
-🔸 Más allá de los conocimientos técnicos, soy una persona curiosa, que le encanta aprender y enseñar. 
-Me considero una persona detallista, pragmática, proactiva y con buena comunicación. 📣
-<br/>
-<br/>
-* 🤓 ¿Mi Background? <br/>
-✔ Hice mis estudios secundarios en un Instituto Técnico en Informática, donde aprendí las bases del desarrollo de software, creando mis primeros sistemas web. 🖥
-<br/><br/>
+
+* 🤔 ¿Por qué yo?
+🔸 Más allá de los conocimientos técnicos, soy una persona curiosa, que le encanta aprender y enseñar.  Me considero una persona detallista, pragmática, proactiva y con buena comunicación. 📣
+
+* 🤓 ¿Mi Background?
+ ✔ Hice mis estudios secundarios en un Instituto Técnico en Informática, donde aprendí las bases del desarrollo de software, creando mis primeros sistemas web. 🖥
 ✔ Me apasioné por este mundo de la programación y continúe especializándome, haciendo cursos de programación y practicando en proyectos personales. 📚
-<br/><br/>
-✔ Ingresé al Bootcamp soyHenry donde, además de profundizar en las distintas tecnologías, aprendí metodologías agiles, a trabajar en conjunto con otros desarrolladores y comunicarme con profesionales que no sean del rubro IT. 👥
-<br/><br/>
-✔ Actualmente me encuentro listo para mi primera experiencia laboral en el mundo IT! 😁
-<br/>
-<br/>
+ ✔ Ingresé al Bootcamp soyHenry donde, además de profundizar en las distintas tecnologías, aprendí metodologías agiles, a trabajar en conjunto con otros desarrolladores y comunicarme con profesionales que no sean del rubro IT. 👥
+ ✔ Actualmente me encuentro listo para mi primera experiencia laboral en el mundo IT! 😁
+
 * 🔔 ¿Creés que soy lo que tu equipo está buscando? No dudes en contactarme. 
-<br/>
+
 📤 Email: leogonzalezdev@gmail.com
 <br/>
-💼 <a href="https://leogonzalez.vercel.app/">Mi Portafolio</a>
+[💼 Mi Portafolio](https://leogonzalez.vercel.app/ "Mi Portafolio")
 <br/>
-👥 <a href="https://www.linkedin.com/in/leogonzalezdev/">Mi LinkedIn</a>
-<br/>
-
-## Tecnologías
-React - JavaScript - Redux - HTML5 - CSS3 - Bootstrap - php - mySql - Ruby - Node.js - Express.js - Sequelize - Auth0 - Postman - PostrgreSQL - GIT - Figma - Photoshop
+[👥 Mi Portafolio](https://www.linkedin.com/in/leogonzalezdev/ "Mi LinkedIn")
 
 ## Mis Proyectos
 
