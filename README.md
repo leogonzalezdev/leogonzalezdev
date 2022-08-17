@@ -1,5 +1,5 @@
 <h1 align="center"> Hola 👋🏽, Yo soy Leonel, Bienvenido/a</h1>
-<img alt="Banner" src="./1654030060949.jpg" width="100%" />
+<img alt="Banner" src="./images/1654030060949.jpg" width="100%" />
 <h3 align="center">
    Sobre mí
 </h3>
@@ -37,38 +37,44 @@ Me considero una persona detallista, pragmática, proactiva y con buena comunica
 </h2>
 
 <div align="center">
-   <img width="70" src="./react.png"/>
-   <img width="70" src="./NODE.png"/>
-   <img width="70" src="./javascript.png"/>
-   <img width="70" src="./git.png"/>
-   <img width="70" src="./typescript.png"/>
-   <img width="70" src="./reactnative.png"/>
-   <img width="70" src="./expressjs.png"/>
-   <img width="70" src="./redux.png"/>
-   <img width="70" src="./php.png"/>
-   <img width="70" src="./mysql.png"/>
-   <img width="70" src="./html.png"/>
-   <img width="70" src="./css.png"/>
-   <img width="70" src="./postgres.png"/>
-   <img width="70" src="./sequelize.png"/>
-   <img width="70" src="./figma.png"/>
-   <img width="70" src="./ps.png"/>
+   <img width="70" src="./images/react.png"/>
+   <img width="70" src="./images/NODE.png"/>
+   <img width="70" src="./images/javascript.png"/>
+   <img width="70" src="./images/git.png"/>
+   <img width="70" src="./images/typescript.png"/>
+   <img width="70" src="./images/reactnative.png"/>
+   <img width="70" src="./images/expressjs.png"/>
+   <img width="70" src="./images/redux.png"/>
+   <img width="70" src="./images/php.png"/>
+   <img width="70" src="./images/mysql.png"/>
+   <img width="70" src="./images/html.png"/>
+   <img width="70" src="./images/css.png"/>
+   <img width="70" src="./images/postgres.png"/>
+   <img width="70" src="./images/sequelize.png"/>
+   <img width="70" src="./images/figma.png"/>
+   <img width="70" src="./images/ps.png"/>
 </div>
 
 <br/><br/>
+ <h3 align="center">
+   Mis Proyectos
+</h3>
 
-<h2 align="center">
-    Mis contribuciones:
-</h2>
+*Falta Uno App* <a href="https://falta-uno-henry.vercel.app/"> Link al proyecto</a>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-reddy-k&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
-</p>  
+- Diseñar y desarrollar una App para el alquiler de canchas en complejos deportivos que incluía: Login, agenda, calendario, chat interno, notificaciones y pasarela de pagos.
+- Desarrollar la app en React con estilos en CSS, Bootstrap y Chakra-Ui, notificaciones con sendGrid y chat implementado con Socket.io. Back desarrollado en Node con Express, base de datos en PostgreSQL y Sequelize.
 
-<br/>
-<br/>
-
-<p align="center">
- <a href="mailto:leogonzalezdev@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
- <a href="https://in.linkedin.com/in/leogonzalezok"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> 
+<p>
+  <a><img src="./images/proyect5.jpg"></a>
 </p>
+
+*DogsApp* <a href="https://pi-dogsapp.vercel.app/"> Link al proyecto</a>
+
+- Diseñar y desarrollar una single-page application en la cual se pueda ver información de distintas razas de perros, filtrarlas, ordenarlas, crear nuevas y eliminarlas. Desarrollado con React JS, Redux, Sequelize, Express y CSS3 Puro, .
+
+<p>
+  <a><img src="./images/proyect1.jpg"></a>
+</p>
+<br/>
+<br/>
