@@ -17,7 +17,7 @@ El desarrollo de software es mi forma de resolver problemas, crear experiencias 
 ## 🌟 Proyectos destacados
 
 ### **Buzzify**
-[🔗 Ver proyecto (Demo o repositorio)](https://buzzify.leogonzalezdev.com)
+[🔗 Ver demo](https://buzzify.leogonzalezdev.com)
 
 - **Descripción:** Buzzify es una aplicación de chat en tiempo real diseñada para ofrecer una experiencia de comunicación rápida, segura y moderna. Combina una interfaz intuitiva con características avanzadas como encriptación AES, autenticación JWT y notificaciones instantáneas con Web Sockets.
 - **Tecnologías:** React, Node.js, Express, MongoDB, TailwindCSS.
@@ -27,7 +27,7 @@ El desarrollo de software es mi forma de resolver problemas, crear experiencias 
 ---
 
 ### **Taskana**
-[🔗 Ver proyecto (Demo o repositorio)](https://taskana.leogonzalezdev.com)
+[🔗 Ver demo](https://taskana.leogonzalezdev.com)
 
 - **Descripción:** Taskana es una aplicación web de gestión de tareas diseñada exclusivamente en frontend. Utiliza LocalStorage para guardar los datos de forma local y ofrece una interfaz amigable y funcional para organizar proyectos mediante tableros estilo Kanban.
 - **Tecnologías:** React 
