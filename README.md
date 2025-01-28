@@ -22,7 +22,7 @@ El desarrollo de software es mi forma de resolver problemas, crear experiencias 
 - **Descripción:** Buzzify es una aplicación de chat en tiempo real diseñada para ofrecer una experiencia de comunicación rápida, segura y moderna. Combina una interfaz intuitiva con características avanzadas como encriptación AES, autenticación JWT y notificaciones instantáneas con Web Sockets.
 - **Tecnologías:** React, Node.js, Express, MongoDB, TailwindCSS.
 
-<img src="./images/buzzify.jpg" alt="Buzzify" width="600">
+<img src="./images/buzzify.png" alt="Buzzify" width="600">
 
 ---
 
@@ -32,7 +32,7 @@ El desarrollo de software es mi forma de resolver problemas, crear experiencias 
 - **Descripción:** Taskana es una aplicación web de gestión de tareas diseñada exclusivamente en frontend. Utiliza LocalStorage para guardar los datos de forma local y ofrece una interfaz amigable y funcional para organizar proyectos mediante tableros estilo Kanban.
 - **Tecnologías:** React 
 
-<img src="./images/taskana.jpg" alt="Taskana" width="600">
+<img src="./images/taskana.png" alt="Taskana" width="600">
 
 ---
 
