@@ -1,5 +1,5 @@
 # ¡Hola! 👋🏽 Soy Leonel González
-![Banner](./images/1654030060949.jpg "Banner")
+![Banner](./images/1676944377233.jfif "Banner")
 
 ## Sobre mí
 ¡Bienvenido/a a mi GitHub! Soy un **Desarrollador FullStack** con enfoque en el **Frontend**. Mi pasión está en crear soluciones digitales que combinen funcionalidad y diseño, siempre manteniendo las mejores prácticas en desarrollo y optimización.
